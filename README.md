@@ -1,6 +1,6 @@
 # Parallel Computing 
 
-**Authors:** Miguel Jacinto Dias Carvalho [(Github)](https://github.com/MiguelJacintoML), Miguel Guimarães [(Github)](https://github.com/miguel-amg), Pedro Carneiro [(Github)](https://github.com/PedroCarneiro03).
+**Authors:** Miguel Carvalho [(Github)](https://github.com/MiguelJacintoML), Miguel Guimarães [(Github)](https://github.com/miguel-amg), Pedro Carneiro [(Github)](https://github.com/PedroCarneiro03).
 
 **University of Minho** - Masters's degree in Software Engineering
 
